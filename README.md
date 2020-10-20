@@ -23,7 +23,7 @@ This is a frontend *only* vue app consuming a third-party API. In particular, th
 
 ### Etc. Notes 
 
-1. To change the title of the browser tab for your app, change it in the `vue.config.js` app 
+1. To change the title of the browser tab for your app, change it in the `vue.config.js` file 
 
 --- 
 
