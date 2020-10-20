@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a frontend *only* vue app consuming a third-party API. In particular, this react app is consuming the Django REST API created [here](https://github.com/jlboba/django_rest_api), but this format will work for any seperate server API regardless of what language you built it in. 
+This is a frontend *only* vue app consuming a third-party API. In particular, this vue app is consuming the Django REST API created [here](https://github.com/jlboba/django_rest_api), but this format will work for any seperate server API regardless of what language you built it in. 
 
 ---
 
